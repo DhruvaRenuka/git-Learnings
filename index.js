@@ -1,3 +1,4 @@
 console.log("hello");
-hello added a new line
-Thanks
+I have changed 2nd line
+So removed thanks
+And I'm welcoming you
